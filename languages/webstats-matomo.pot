@@ -1,0 +1,109 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Matomo integration\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-08 20:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-5.8-RC1-51320\n"
+"X-Domain: matomo-integration"
+
+#. Author of the plugin
+msgid "Arno Welzel"
+msgstr ""
+
+#: webstats-matomo.php:249
+msgid ""
+"Before enabling the tracking cookie please consider the privacy of your "
+"visitors! Matomo works fine without this cookie - you will just not get a "
+"detailed analysis about recurring visitors."
+msgstr ""
+
+#: webstats-matomo.php:92
+msgid "Date"
+msgstr ""
+
+#: webstats-matomo.php:247
+msgid "Enable statistics with Matomo"
+msgstr ""
+
+#: webstats-matomo.php:248
+msgid "Enable tracking cookie"
+msgstr ""
+
+#: webstats-matomo.php:239
+msgid "General"
+msgstr ""
+
+#: webstats-matomo.php:268
+msgid ""
+"Generate this token once in Matomo (Settings → Personal → Security) and then "
+"paste it here."
+msgstr ""
+
+#. Description of the plugin
+msgid "Get statistics of your website with Matomo"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://arnowelzel.de"
+msgstr ""
+
+#: webstats-matomo.php:240
+msgid "Info"
+msgstr ""
+
+#: webstats-matomo.php:265
+msgid "Matomo auth token"
+msgstr ""
+
+#: webstats-matomo.php:259
+msgid "Matomo site ID"
+msgstr ""
+
+#: webstats-matomo.php:253
+msgid "Matomo URL"
+msgstr ""
+
+#: webstats-matomo.php:86
+msgid "Open Matomo for this site"
+msgstr ""
+
+#: webstats-matomo.php:245
+msgid "Options"
+msgstr ""
+
+#: webstats-matomo.php:274
+msgid "Plugin version"
+msgstr ""
+
+#: webstats-matomo.php:275
+msgid ""
+"This plugin allows to use a self hosted Matomo server to get website "
+"statistics."
+msgstr ""
+
+#: webstats-matomo.php:94
+msgid "Views"
+msgstr ""
+
+#: webstats-matomo.php:93
+msgid "Visits"
+msgstr ""
+
+#. Name of the plugin
+#: webstats-matomo.php:152 webstats-matomo.php:153 webstats-matomo.php:191
+msgid "Website statistics with Matomo"
+msgstr ""
+
+#: webstats-matomo.php:276
+msgid "© Arno Welzel 2022"
+msgstr ""
